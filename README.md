@@ -1,9 +1,5 @@
-# Threat-Feed-Aggregator
+# Threat-Feed-Aggregator (Google Sheets + Apps Script)
 A low-code threat intelligence aggregator that automatically fetches Indicators of Compromise (IOCs) such as IP addresses, URLs, domains, and file hashes from public threat feeds like URLhaus and FeodoTracker. The tool normalizes and deduplicates the collected data, storing it in a Google Sheet with source information and timestamps.
-
-# Threat Feed Aggregator (Google Sheets + Apps Script)
-
-A low-code threat intelligence aggregator that fetches IOCs (IPs, URLs, domains, hashes) from public feeds like URLhaus and FeodoTracker, normalizes & deduplicates them, and stores results in a Google Sheet.
 
 ## Features
 - Automated fetch of threat intelligence feeds
